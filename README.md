@@ -1,4 +1,3 @@
-codeby-MansiChandra / README.md
 
 # Hi, I'm Mansi Chandra 👋
 
