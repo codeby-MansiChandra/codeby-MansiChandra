@@ -72,10 +72,10 @@ Experience in bulk and single‑cell RNA‑seq analysis, building full‑stack w
 
 My pipelines include:
 
-Batch-aware normalization
-PCA and QC filtering
-Custom contrast modeling
-Volcano plots and annotated heatmaps
+* Batch-aware normalization
+* PCA and QC filtering
+* Custom contrast modeling
+* Volcano plots and annotated heatmaps
 
 ---
 
