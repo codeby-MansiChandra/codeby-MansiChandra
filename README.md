@@ -59,16 +59,17 @@ Bioinformatics toolkit – used Snippy, Prokka, QUAST, MOB‑suite, AMRFinderPlu
 ## ⚙️ High-Throughput Sequencing Data Processing
 In Unix/HPC environments, I run complete NGS pipelines:
 
-Quality control: FastQC, Cutadapt
-Alignment: STAR, BWA
-Assembly: Velvet, variant analysis with SAMtools, visualization in IGV
-Single-cell analysis: Seurat (filtering → PCA → UMAP → clustering → marker detection)
-I automate tasks with Bash scripting and optimize pipeline execution via Slurm for reproducibility at scale.
+* Quality control: FastQC, Cutadapt
+* Alignment: STAR, BWA
+* Assembly: Velvet, variant analysis with SAMtools, visualization in IGV
+* Single-cell analysis: Seurat (filtering → PCA → UMAP → clustering → marker detection)
+* I automate tasks with Bash scripting and optimize pipeline execution via Slurm for reproducibility at scale.
 
 ----
 
 ## 🔬 RNA-seq & scRNA-seq Analysis
 Experience in bulk and single‑cell RNA‑seq analysis, building full‑stack workflows from raw FASTQ files to biological interpretation using R/Bioconductor, Seurat, nf‑core/Nextflow, and HPC/cloud infrastructure. This work has included processing case‑control and time‑series datasets, applying transcript‑to‑gene summarization (tximport), and performing differential expression with DESeq2, edgeR, and limma.
+
 My pipelines include:
 
 Batch-aware normalization
